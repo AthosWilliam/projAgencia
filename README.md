@@ -1,13 +1,6 @@
 
 <h1 align="center" style="font-size: 25px">Projeto Agência</h1>
 
-<section align="center" style="display: inline_block;">  
-
-  <img align="center" width="20px" height="20px" src="https://www.nicepng.com/png/full/170-1709508_web-solutions-web-icon-white-png.png">
-  <a href="athoswilliam.github.io/projAgencia/" target="_blank">See the website here!</a>
- 
-</section>
-
 <h2 style="font-size: 25px">👨🏽‍💻  About: </h2>
 <p>✅ A website template for a Digital Agency with fictitious texts just for the notion of material;</p>
 <p>✅ Presentation of the services provided by the agency in question using animated cards;</p>
