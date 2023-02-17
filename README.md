@@ -1,11 +1,11 @@
 
 <h1 align="center" style="font-size: 25px">Projeto Agência</h1>
 
-<section align="center" style="display: inline; justify-content: center; align-items: center;">   
-  <img width="20px" height="20px" src="https://www.nicepng.com/png/full/170-1709508_web-solutions-web-icon-white-png.png">
-  <div class="link" style="margin-left: 5px;">
-    <a href="athoswilliam.github.io/projAgencia/" target="_blank" style=": center; font-size: 18px;">See the website here!</a>
-  </div>
+<section align="center" style="display: inline_block;">  
+
+  <img align="center" width="20px" height="20px" src="https://www.nicepng.com/png/full/170-1709508_web-solutions-web-icon-white-png.png">
+  <a href="athoswilliam.github.io/projAgencia/" target="_blank">See the website here!</a>
+ 
 </section>
 
 <h2 style="font-size: 25px">👨🏽‍💻  About: </h2>
